@@ -25,7 +25,7 @@
 &lt;p&gt;或者使用Aistudio，Gemini天下第一&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h3 id="结语"&gt;结语
-&lt;/h3&gt;</description></item><item><title>【unraid陪玩】记录在unraid下部署hugo博客</title><link>https://daikonsushi.github.io/post/unraid%E9%83%A8%E7%BD%B2hugo/</link><pubDate>Wed, 16 Apr 2025 19:03:30 +0800</pubDate><guid>https://daikonsushi.github.io/post/unraid%E9%83%A8%E7%BD%B2hugo/</guid><description>&lt;img src="https://img.daikonsushi.me/images/2025/10/06/20251006021157.png" alt="Featured image of post 【unraid陪玩】记录在unraid下部署hugo博客" /&gt;&lt;h3 id="homelab一定要有服务"&gt;☀️HOMELAB一定要有服务☀️
+&lt;/h3&gt;</description></item><item><title>【unraid陪玩】记录在unraid下部署hugo博客</title><link>https://daikonsushi.github.io/post/unraid%E9%83%A8%E7%BD%B2hugo/</link><pubDate>Wed, 16 Apr 2025 19:03:30 +0800</pubDate><guid>https://daikonsushi.github.io/post/unraid%E9%83%A8%E7%BD%B2hugo/</guid><description>&lt;h3 id="homelab一定要有服务"&gt;☀️HOMELAB一定要有服务☀️
 &lt;/h3&gt;&lt;p&gt;博主是一个爱折腾的人，但是很多东西都只是玩玩而已，包括这个写博客也没有坚持下来，很多东西弄完之后就没再碰过，也觉得可惜，就比如前几天照着开源的教程打板焊接了一个磁带播放器，成功之后就一直放着不玩了。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;既然只玩一次，就想要至少记录一下&lt;/strong&gt;，于是就再次拾起了博客。几年前在Github上部署过hexo博客，再托管到netlify上，可惜没写过内容，只是觉得部署着好玩，几年过去了，博主现在沉迷NAS ALL IN BOOM，自家部署的unraid主机还没怎么用起来，就想着在上面部署一个博客，&lt;strong&gt;从需求上来看&lt;/strong&gt;选择部署静态博客，相比hexo我&lt;strong&gt;选择了更新的hugo框架&lt;/strong&gt;，是因为hexo部署过了喜新厌旧，也是因为Hugo依靠Go语言进行开发，会有比Hexo更快的部署速度。&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://img.daikonsushi.me/images/2025/06/29/-2025-04-16-194548_preview.jpeg"
